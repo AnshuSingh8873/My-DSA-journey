@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnshuSingh8873/My-DSA-journey/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/AnshuSingh8873/My-DSA-journey/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnshuSingh8873/My-DSA-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/AnshuSingh8873/My-DSA-journey/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnshuSingh8873/My-DSA-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnshuSingh8873/My-DSA-journey/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/AnshuSingh8873/My-DSA-journey/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnshuSingh8873/My-DSA-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/AnshuSingh8873/My-DSA-journey/tree/master/0042-trapping-rain-water) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnshuSingh8873/My-DSA-journey/tree/master/0977-squares-of-a-sorted-array) |
@@ -55,5 +57,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/AnshuSingh8873/My-DSA-journey/tree/master/0016-3sum-closest) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnshuSingh8873/My-DSA-journey/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
