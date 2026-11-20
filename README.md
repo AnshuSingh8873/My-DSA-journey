@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AnshuSingh8873/My-DSA-journey/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/AnshuSingh8873/My-DSA-journey/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnshuSingh8873/My-DSA-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0209-minimum-size-subarray-sum](https://github.com/AnshuSingh8873/My-DSA-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnshuSingh8873/My-DSA-journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnshuSingh8873/My-DSA-journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/AnshuSingh8873/My-DSA-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnshuSingh8873/My-DSA-journey/tree/master/0424-longest-repeating-character-replacement) |
 ## Math
 |  |
@@ -73,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AnshuSingh8873/My-DSA-journey/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AnshuSingh8873/My-DSA-journey/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AnshuSingh8873/My-DSA-journey/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
